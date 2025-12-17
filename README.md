@@ -5,6 +5,8 @@
 플래시 게임의 향수를 담은  
 **방향키 맞추기 기반 캐주얼 꽃꽂이 게임**입니다.
 
+플레이 링크: https://www.game-ping.kr/games/flower-arrangement
+
 ---
 
 ## 🎮 게임 소개
