@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - up
+  - down
+  - left
+  - right
+  - Seed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1716620259
+    locked: 0
+  - name: Flower
+    uniqueID: 2563416249
+    locked: 0
+  - name: Bottle
+    uniqueID: 1012352017
+    locked: 0
+  - name: TextImage
+    uniqueID: 3427066089
+    locked: 0
+  m_RenderingLayers:
+  - Default
